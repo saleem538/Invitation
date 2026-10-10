@@ -69,6 +69,7 @@ function Index() {
         </div>
         <div className="ornament" aria-hidden="true"><Heart size={18} strokeWidth={1} /></div>
         <div className="venue-details">
+          <h2 className="section-title" id="nikah-timeline-heading">Valima</h2>
           <p className="venue-label">Reception venue · 3 November 2026</p>
           <h3 className="venue-name">Mahboob pride palace</h3>
           <Button variant="link" asChild><a href="https://share.google/s3SkonGXYZNWBLAsH" target="_blank" rel="noopener noreferrer" aria-label="Open Mahboob pride palace location in Google Maps"><MapPin aria-hidden="true" />Google Maps</a></Button>
