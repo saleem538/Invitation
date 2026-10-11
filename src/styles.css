@@ -344,7 +344,10 @@ body { margin: 0; font-family: var(--font-body); letter-spacing: 0; }
   font-display: swap;
 }
 .dr-name {
-  font-size: 60px;
+  font-size: 48px;
+}
+.dr-parent {
+  font-size: 20px;
 }
 .dr-scroll {
   margin-top: 20px;
