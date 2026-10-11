@@ -28,7 +28,7 @@ function Index() {
       <DoorReveal />
       <section className="floral-section welcome-section">
         <audio controls loop preload="metadata">
-          <source src="/music/wedding-song.mp3" type="audio/mpeg" />
+          <source src="/music/wedding-song.mpeg" type="audio/mpeg" />
         </audio>
         <img className="floral-background" src={welcome.url} alt="" />
         <p className="invitation-eyebrow">Together with our families</p>
