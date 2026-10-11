@@ -348,7 +348,7 @@ body { margin: 0; font-family: var(--font-body); letter-spacing: 0; }
 }
 .dr-scroll {
   position: absolute;
-  bottom: 260px;
+  bottom: 60px;
   z-index: 2;
   border: 0;
   background: transparent;
