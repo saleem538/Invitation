@@ -63,6 +63,15 @@ export function DoorReveal() {
               <span className="dr-parent">son of Mohammed Sultan Taj Sahab</span>
             </span>
           </h1>
+          <button
+            type="button"
+            className="dr-scroll"
+            onClick={() =>
+            document.querySelector(".welcome-section")?.scrollIntoView({ behavior: "smooth" })
+            }
+          >
+            Scroll down ↓
+        </button>
         </div>
       </section>
 
