@@ -62,9 +62,7 @@ export function DoorReveal() {
               <span className="dr-name">Mohammed Omer Farooq Taj</span>
               <span className="dr-parent">son of Mohammed Sultan Taj Sahab</span>
             </span>
-          </h1>
-        </div>
-        <button
+            <button
             type="button"
             className="dr-scroll"
             onClick={() =>
@@ -73,6 +71,8 @@ export function DoorReveal() {
           >
             Scroll down ↓
         </button>
+          </h1>
+        </div>
       </section>
 
       <div className="dr-curtains" aria-hidden="true">
