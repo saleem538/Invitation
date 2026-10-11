@@ -363,3 +363,6 @@ body { margin: 0; font-family: var(--font-body); letter-spacing: 0; }
 .white-hand {
   filter: grayscale(1) brightness(0) invert(1);
 }
+.dr-eyebrow {
+  font-size: 30px;
+}
