@@ -357,3 +357,6 @@ body { margin: 0; font-family: var(--font-body); letter-spacing: 0; }
   font: inherit;
   cursor: pointer;
 }
+.made-by{
+  font-size: 10px;
+}
