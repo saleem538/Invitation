@@ -26,7 +26,7 @@ export function DoorReveal() {
     <div className={`dr${open ? " is-open" : ""}`}>
       <audio ref={musicRef} loop preload="auto">
         <source
-          src="/music/your-song-file.mpeg"
+          src="/music/wedding-song.mpeg"
           type="audio/mpeg"
         />
       </audio>
