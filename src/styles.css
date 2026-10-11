@@ -346,3 +346,13 @@ body { margin: 0; font-family: var(--font-body); letter-spacing: 0; }
 .dr-name {
   font-size: 60px;
 }
+.dr-scroll {
+  position: absolute;
+  bottom: 20px;
+  z-index: 2;
+  border: 0;
+  background: transparent;
+  color: var(--dr-ink);
+  font: inherit;
+  cursor: pointer;
+}
