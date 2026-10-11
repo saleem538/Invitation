@@ -27,6 +27,9 @@ function Index() {
     <main className="invitation">
       <DoorReveal />
       <section className="floral-section welcome-section">
+        <audio controls loop preload="metadata">
+          <source src="/music/wedding-song.mp3" type="audio/mpeg" />
+        </audio>
         <img className="floral-background" src={welcome.url} alt="" />
         <p className="invitation-eyebrow">Together with our families</p>
         <h1 className="invitation-title">As they begin this blessed journey of marriage, we would be honoured by your presence at this joyous occasion.</h1>
