@@ -27,7 +27,7 @@ function Index() {
     <main className="invitation">
       <DoorReveal />
       <section className="floral-section welcome-section">
-        <audio controls loop preload="metadata">
+        <audio loop preload="metadata">
           <source src="/music/wedding-song.mpeg" type="audio/mpeg" />
         </audio>
         <img className="floral-background" src={welcome.url} alt="" />
