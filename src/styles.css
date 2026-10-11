@@ -343,3 +343,6 @@ body { margin: 0; font-family: var(--font-body); letter-spacing: 0; }
   font-style: normal;
   font-display: swap;
 }
+.dr-name {
+  font-size: 60px;
+}
